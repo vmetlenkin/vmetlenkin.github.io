@@ -3,6 +3,7 @@
 
 ## Лабораторная 1
 
+### UML-модель
 Предложение: Разработка приложения
 
 ![model](https://user-images.githubusercontent.com/29989272/133794294-6b85a666-16f9-4fd4-9b0f-fc8cf0fd5123.png)
